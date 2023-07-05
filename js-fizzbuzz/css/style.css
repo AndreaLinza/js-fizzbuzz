@@ -1,0 +1,12 @@
+.fizz-container{
+    aspect-ratio: 1/1;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+}
+
+.fizz-square{
+    aspect-ratio: 1/1;
+    width: calc(100% / 8);
+
+}
